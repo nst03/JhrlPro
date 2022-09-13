@@ -1,0 +1,21 @@
+server:
+  port: 8866
+  servlet:
+    context-path: /JhrlPro
+  tomcat:
+    max-threads: 5000
+
+master:
+  datasource:
+    url: jdbc:mysql://10.48.39.143:3306/snowtest?useUnicode=true&characterEncoding=utf-8
+    username: zytrw
+    password: Zyt2304!#$
+    driverClassName: com.mysql.jdbc.Driver
+
+logging:
+  config: classpath:log4j2.xml
+
+spring:
+  application:
+    name: /JhrlPro
+

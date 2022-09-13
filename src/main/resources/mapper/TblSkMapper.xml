@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.fwzx.dao.TblSkMapper">
+    <resultMap id="BaseResultMap" type="com.fwzx.pojo.TblSk">
+        <id column="id" property="id" jdbcType="INTEGER"/>
+        <result column="datetime" property="datetime" jdbcType="TIMESTAMP"/>
+        <result column="stationid" property="stationid" jdbcType="VARCHAR"/>
+        <result column="winds" property="winds" jdbcType="DOUBLE"/>
+        <result column="windd" property="windd" jdbcType="DOUBLE"/>
+    </resultMap>
+</mapper>

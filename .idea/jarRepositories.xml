@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="spring-snapshots" />
+      <option name="name" value="Spring Snapshots" />
+      <option name="url" value="https://repo.spring.io/libs-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="edas-oss-central" />
+      <option name="name" value="taobao mirror central" />
+      <option name="url" value="http://edas-public.oss-cn-hangzhou.aliyuncs.com/repository" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="geomajas" />
+      <option name="name" value="geomajas Repository" />
+      <option name="url" value="http://maven.geomajas.org/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="libs-release" />
+      <option name="url" value="https://maven.aliyun.com/repository/central/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="osgeo1" />
+      <option name="name" value="Open Source Geospatial Foundation Repository" />
+      <option name="url" value="http://download.osgeo.org/webdav/geotools/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven2-repository.dev.java.net" />
+      <option name="name" value="Java.net repository" />
+      <option name="url" value="http://download.java.net/maven/2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="boundless" />
+      <option name="name" value="Boundless Maven Repository" />
+      <option name="url" value="http://repo.boundlessgeo.com/main" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="libs-snapshot" />
+      <option name="url" value="https://repo.spring.io/libs-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="scala-tools.org" />
+      <option name="name" value="Scala-Tools Maven2 Repository" />
+      <option name="url" value="http://scala-tools.org/repo-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="HuaweiCloudSDK" />
+      <option name="name" value="HuaweiCloudSDK" />
+      <option name="url" value="https://repo.huaweicloud.com/repository/maven/huaweicloudsdk/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="geotools" />
+      <option name="name" value="geotools Repository" />
+      <option name="url" value="https://repo.boundlessgeo.com/main" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="pentaho-public" />
+      <option name="name" value="Pentaho Public" />
+      <option name="url" value="http://nexus.pentaho.org/content/groups/omni" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="osgeo-snapshot" />
+      <option name="name" value="OSGeo Snapshot Repository" />
+      <option name="url" value="https://repo.osgeo.org/repository/snapshot/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="osgeo" />
+      <option name="name" value="OSGeo Release Repository" />
+      <option name="url" value="https://repo.osgeo.org/repository/release/" />
+    </remote-repository>
+  </component>
+</project>
