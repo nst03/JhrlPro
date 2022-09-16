@@ -9,7 +9,7 @@ master:
   datasource:
     url: jdbc:mysql://localhost:3306/snowtest?useUnicode=true&characterEncoding=utf-8
     username: root
-    password: root123
+    password: root
     driverClassName: com.mysql.jdbc.Driver
 
 logging:
@@ -18,4 +18,8 @@ logging:
 spring:
   application:
     name: /JhrlPro
+  cache:
+    type: ehcache
+    ehcache:
+      config: classpath:ehcache.xml
 
