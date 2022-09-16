@@ -157,6 +157,19 @@
             <artifactId>ehcache</artifactId>
         </dependency>
 
+
+        <dependency>
+            <groupId>org.apache.shiro</groupId>
+            <artifactId>shiro-crypto-hash</artifactId>
+            <version>1.9.1</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.shiro</groupId>
+            <artifactId>shiro-crypto-cipher</artifactId>
+            <version>1.9.1</version>
+        </dependency>
+
     </dependencies>
     <build>
         <plugins>
